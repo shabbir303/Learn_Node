@@ -7,7 +7,8 @@
 - open the terminal in vs code and run `node file-1.js`
 - want to change the folder just write the terminal `node ./file-2.js`
 - you see the difference in exports when you add a function
-- ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node.jpg) ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node1.jpg)
+- ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node.jpg)
+- just see the difference in exports ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node1.jpg)
 
 
   
