@@ -7,10 +7,11 @@
 - open the terminal in vs code and run `node file-1.js`
 - want to change the folder just write the terminal `node ./file-2.js`
 - you see the difference in exports when you add a function
-- <img src="https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node.jpg" width="158">
-- just see the difference in exports
-- <img src="https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node1.jpg" width="158">
-- <img src= "https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node2.jpg" width="158">
+- <p>
+  <img src="https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node.jpg" width="158">
+  <img src="https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node1.jpg" width="158">
+  <img src="https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node2.jpg" width="158">
+ </p>
 
 
 
