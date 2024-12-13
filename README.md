@@ -10,6 +10,8 @@
 - ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node.jpg)
 - just see the difference in exports
 - ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node1.jpg)
+- ![alt text](https://github.com/shabbir303/Learn_Node/blob/main/learn%20Node2.jpg)
+
 
 
   
