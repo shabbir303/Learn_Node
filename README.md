@@ -6,4 +6,5 @@
 - want to see the output in terminal just write `console.log(result1)`
 - open the terminal in vs code and run `node file-1.js`
 - want to change the folder just write the terminal `node ./file-2.js`
+- you see the difference in exports when you add a function 
   
